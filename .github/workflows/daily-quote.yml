@@ -1,0 +1,40 @@
+name: Daily Quote
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  add-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch and add quote
+        run: |
+          QUOTE=$(curl -s "https://zenquotes.io/api/random" | python3 -c "
+          import sys, json
+          data = json.load(sys.stdin)
+          q = data[0]['q']
+          a = data[0]['a']
+          print(f'> \"{q}\"')
+          print(f'> — {a}')
+          ")
+          DATE=$(date +"%B %d, %Y")
+          echo "" >> quotes.md
+          echo "### $DATE" >> quotes.md
+          echo "$QUOTE" >> quotes.md
+          echo "" >> quotes.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "Yashaswi-Wagle"
+          git config user.email "yashaswiwagle@gmail.com"
+          git add quotes.md
+          git commit -m "📖 Daily quote - $(date +%Y-%m-%d)"
+          git push
