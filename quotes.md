@@ -12,3 +12,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "It is better to learn late than never."
 > — Publilius Syrus
 
+
+### June 07, 2026
+> "Don't wait for extraordinary opportunities. Seize common occasions and make them great."
+> — Orison Swett Marden
+
