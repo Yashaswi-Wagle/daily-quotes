@@ -17,3 +17,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Don't wait for extraordinary opportunities. Seize common occasions and make them great."
 > — Orison Swett Marden
 
+
+### June 08, 2026
+> "Avoiding danger is no safer in the long run than exposure."
+> — Helen Keller
+
