@@ -22,3 +22,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Avoiding danger is no safer in the long run than exposure."
 > — Helen Keller
 
+
+### June 09, 2026
+> "To be in harmony with the wholeness of things is not to have anxiety over imperfections."
+> — Dogen
+
