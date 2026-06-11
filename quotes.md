@@ -32,3 +32,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "You know you are on the road to success if you would do your job and not be paid for it."
 > — Oprah Winfrey
 
+
+### June 11, 2026
+> "People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."
+> — Brian Tracy
+
