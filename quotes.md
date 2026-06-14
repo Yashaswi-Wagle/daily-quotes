@@ -47,3 +47,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."
 > — Pema Chodron
 
+
+### June 14, 2026
+> "Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."
+> — Gurbaksh Chahal
+
