@@ -52,3 +52,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."
 > — Gurbaksh Chahal
 
+
+### June 15, 2026
+> "Do not allow your inner doubts to keep you from achieving what you can do."
+> — Lolly Daskal
+
