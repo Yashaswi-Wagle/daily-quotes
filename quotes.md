@@ -62,3 +62,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise."
 > — Buddha
 
+
+### June 17, 2026
+> "Forget safety. Live where you fear to live."
+> — Rumi
+
