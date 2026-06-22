@@ -87,3 +87,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "We turn not older with years but newer every day."
 > — Emily Dickinson
 
+
+### June 22, 2026
+> "Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."
+> — Roy T. Bennett
+
