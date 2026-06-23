@@ -92,3 +92,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."
 > — Roy T. Bennett
 
+
+### June 23, 2026
+> "The only place where success comes before work is in the dictionary."
+> — Vidal Sassoon
+
