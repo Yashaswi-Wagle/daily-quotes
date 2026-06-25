@@ -102,3 +102,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Our greatest fears lie in anticipation."
 > — Honore de Balzac
 
+
+### June 25, 2026
+> "Growth comes at the point of resistance."
+> — Josh Waitzkin
+
