@@ -147,3 +147,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Never confuse a single defeat with a final defeat."
 > — F. Scott Fitzgerald
 
+
+### July 04, 2026
+> "The first man gets the oyster, the second man gets the shell."
+> — Andrew Carnegie
+
