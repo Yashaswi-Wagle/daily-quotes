@@ -247,3 +247,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "In all chaos there is a cosmos, in all disorder a secret order."
 > — Carl Jung
 
+
+### July 25, 2026
+> "If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."
+> — Mark Twain
+
