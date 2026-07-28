@@ -262,3 +262,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "The best mind-altering drug is the truth."
 > — Lily Tomlin
 
+
+### July 28, 2026
+> "It's not the size of the dog in the fight, it's the size of the fight in the dog."
+> — Mark Twain
+
