@@ -307,3 +307,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "You can do nothing to change the past, and the future will never come exactly as you plan or hope for."
 > — Dan Millman
 
+
+### August 06, 2026
+> "Who wishes to fight must first count the cost."
+> — Sun Tzu
+
