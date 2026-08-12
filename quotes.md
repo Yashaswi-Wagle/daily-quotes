@@ -337,3 +337,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."
 > — Sonia Ricotti
 
+
+### August 12, 2026
+> "Working hard for something we don't care about is called stress: Working hard for something we love is called passion."
+> — Simon Sinek
+
