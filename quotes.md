@@ -347,3 +347,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "To be totally at leisure for one day is to be immortal for one day."
 > — Chinese Proverb
 
+
+### August 14, 2026
+> "You are what you do, not what you say you'll do."
+> — Carl Jung
+
