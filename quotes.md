@@ -352,3 +352,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "You are what you do, not what you say you'll do."
 > — Carl Jung
 
+
+### August 15, 2026
+> "Still your waters."
+> — Josh Waitzkin
+
