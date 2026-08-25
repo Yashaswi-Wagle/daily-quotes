@@ -397,3 +397,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Change will not come if we wait for some other person, or if we wait for some other time."
 > — Barack Obama
 
+
+### August 25, 2026
+> "The deeper the truth in a creative work, the longer it will live."
+> — Charlie Chaplin
+
