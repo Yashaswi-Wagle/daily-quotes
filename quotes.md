@@ -427,3 +427,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "The best way to find yourself is to lose yourself in the service of others."
 > — Mahatma Gandhi
 
+
+### August 31, 2026
+> "Each time we don't say what we wanna say, we're dying."
+> — Yoko Ono
+
