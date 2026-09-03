@@ -442,3 +442,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."
 > — Tony Robbins
 
+
+### September 03, 2026
+> "Maybe you are searching among the branches, for what only appears in the roots."
+> — Rumi
+
