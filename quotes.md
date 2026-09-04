@@ -447,3 +447,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Maybe you are searching among the branches, for what only appears in the roots."
 > — Rumi
 
+
+### September 04, 2026
+> "No idea, no matter how good, will work if it doesn't get used."
+> — Peter A. Cohen
+
