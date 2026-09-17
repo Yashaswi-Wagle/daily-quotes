@@ -507,3 +507,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "There are people who have money and people who are rich."
 > — Coco Chanel
 
+
+### September 17, 2026
+> "Knowing is not enough, we must apply. Willing is not enough, we must do."
+> — Bruce Lee
+
