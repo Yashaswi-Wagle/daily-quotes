@@ -522,3 +522,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."
 > — Elon Musk
 
+
+### September 21, 2026
+> "Don't let what you cannot do interfere with what you can do."
+> — John Wooden
+
