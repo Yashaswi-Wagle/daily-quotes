@@ -627,3 +627,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "We can have more than we've got because we can become more than we are."
 > — Jim Rohn
 
+
+### October 12, 2026
+> "To succeed takes more than the desire to win. It also takes the acceptance that we could fail."
+> — Simon Sinek
+
