@@ -652,3 +652,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "As soon as you truly commit to making something happen, the 'how' will reveal itself."
 > — Tony Robbins
 
+
+### October 17, 2026
+> "To become what you are not, behave as you do not."
+> — T.S. Eliot
+
