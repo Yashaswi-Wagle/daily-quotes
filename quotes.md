@@ -682,3 +682,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."
 > — George Bernard Shaw
 
+
+### October 23, 2026
+> "All you need is passion. If you have a passion for something, you'll create the talent."
+> — Yanni
+
