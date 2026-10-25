@@ -692,3 +692,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "The only real security that a man can have in this world is a reserve of knowledge, experience and ability."
 > — Henry Ford
 
+
+### October 25, 2026
+> "There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."
+> — Wayne Dyer
+
