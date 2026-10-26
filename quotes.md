@@ -697,3 +697,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."
 > — Wayne Dyer
 
+
+### October 26, 2026
+> "If you don't break your ropes while you're alive, do you think ghosts will do it after?"
+> — Kabir
+
