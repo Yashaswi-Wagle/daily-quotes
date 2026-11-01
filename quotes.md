@@ -727,3 +727,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Life doesn't get easier or more forgiving, we get stronger and more resilient."
 > — Steve Maraboli
 
+
+### November 01, 2026
+> "Thinking is the hardest work there is. That is why so few people engage in it."
+> — Robert Kiyosaki
+
