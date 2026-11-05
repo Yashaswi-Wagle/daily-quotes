@@ -747,3 +747,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "If I can pay the bills, I'm happy."
 > — Morgan Wootten
 
+
+### November 05, 2026
+> "Educating the mind without educating the heart is no education at all."
+> — Aristotle
+
