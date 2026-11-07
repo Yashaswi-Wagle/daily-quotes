@@ -757,3 +757,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Over time, loneliness gets inside you and doesn't go away."
 > — Carlos Ruiz Zafon
 
+
+### November 07, 2026
+> "Don't be afraid to give up the good to go for the great."
+> — John D. Rockefeller
+
