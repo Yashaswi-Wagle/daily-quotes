@@ -782,3 +782,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Man is made by his belief. As he believes, so he is."
 > — Bhagavad Gita
 
+
+### November 12, 2026
+> "Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."
+> — Roy T. Bennett
+
