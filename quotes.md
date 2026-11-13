@@ -787,3 +787,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."
 > — Roy T. Bennett
 
+
+### November 13, 2026
+> "First learn the meaning of what you say, and then speak."
+> — Epictetus
+
