@@ -817,3 +817,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "People become attached to their burdens sometimes more than the burdens are attached to them."
 > — George Bernard Shaw
 
+
+### November 20, 2026
+> "What have you done today to make someone else happy?"
+> — Deepam Chaterjee
+
