@@ -837,3 +837,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."
 > — Wayne Gretzky
 
+
+### November 24, 2026
+> "Be - don't try to become"
+> — Osho
+
