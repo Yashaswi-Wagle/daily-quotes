@@ -842,3 +842,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "Be - don't try to become"
 > — Osho
 
+
+### November 25, 2026
+> "It is not the knowing that is difficult, but the doing."
+> — Chinese Proverb
+
