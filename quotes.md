@@ -847,3 +847,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "It is not the knowing that is difficult, but the doing."
 > — Chinese Proverb
 
+
+### November 26, 2026
+> "No man is free who is not master of himself."
+> — Epictetus
+
