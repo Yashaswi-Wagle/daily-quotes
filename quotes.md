@@ -857,3 +857,8 @@ A new quote is automatically added here every day using GitHub Actions.
 > "I no doubt deserved my enemies, but I don't believe I deserved my friends."
 > — Walt Whitman
 
+
+### November 28, 2026
+> "Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."
+> — Peter Drucker
+
